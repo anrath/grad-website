@@ -4,20 +4,20 @@
   "description": "A graduation website with loads of features.",
   "main": "npmfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/graduation-website.git"
+    "url": "git+ssh://git@github.com:anrath/graduation.git"
   },
   "keywords": [
     "graduation",
     "template",
     "website template"
   ],
-  "author": "Ram Patra",
+  "author": "Kasra Lekan",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/graduation-website",
+  "homepage": "https://github.com/anrath/graduation",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
